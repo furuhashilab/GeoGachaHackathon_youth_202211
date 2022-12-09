@@ -16,6 +16,11 @@
 * gacha_x_の後に続く番号はBlenderからstlを出力する際のスケール。※0.75→0_75
 * プロトタイプとしてプリントしたのはスケール0_75の方。
 
+![IMG_1366](https://user-images.githubusercontent.com/72287333/206618786-5648e26c-6603-47f8-a7f0-d61f9e74d1e8.jpg)
+![IMG_1367](https://user-images.githubusercontent.com/72287333/206618848-b4825035-7033-4eab-9397-b3820ce6960a.jpg)
+![IMG_1368](https://user-images.githubusercontent.com/72287333/206618862-9149beb0-3b6e-4791-b99b-2e42e399bf89.jpg)
+
+
 ## スケジュール
 * 11/15 ハッカソンスタート
 * 11/22 作業コアタイム
